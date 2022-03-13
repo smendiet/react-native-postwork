@@ -11,6 +11,9 @@
 ![Absolute Layout](./images/AbsoluteLayout.png)
 
 
-3. Realizar Postwork de Layout
+3. Realizar [Postwork de Layout](https://github.com/beduExpert/React-Native-2021/tree/main/Sesion-03/Postwork)
+
+![Profile Layout](./images/ProfileLayout.png)
+
 4. Realizar componente de Login
 5. Realizar montaje del Backend

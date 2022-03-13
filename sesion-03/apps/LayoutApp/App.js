@@ -13,6 +13,8 @@ import HorizontalStackLayout from "./src/layout-learn/HorizontalStackLayout";
 import GridLayoutWithSpaceBetween from './src/layout-learn/GridLayoutWithSpaceBetween';
 import AbsoluteLayout from "./src/layout-learn/AbsoluteLayout";
 
+import ProfileLayout from "./src/layout-learn/ProfileLayout";
+
 export default function App() {
   return (
     <View style={{flex: 1}}>
@@ -29,7 +31,7 @@ export default function App() {
 
       <GridLayout />
      */} 
-      <AbsoluteLayout />
+      <ProfileLayout />
     </View>
   );
 }
