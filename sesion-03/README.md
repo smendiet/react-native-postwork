@@ -1,6 +1,9 @@
 # Sesión 3 - Postwork
 
 1. Terminar Challenge de Layout
+
+![Reto](./images/Reto.png)
+
 2. Prácticar otros layout en [Github](https://github.com/tutsplus/get-started-with-react-native-layouts/) del [Get Started With Layouts in React Native](https://code.tutsplus.com/es/tutorials/get-started-with-layouts-in-react-native--cms-27418)
 
 
