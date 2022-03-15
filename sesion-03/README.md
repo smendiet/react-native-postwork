@@ -16,4 +16,7 @@
 ![Profile Layout](./images/ProfileLayout.png)
 
 4. Realizar componente de Login
+
+![Login](./images/Login.png)
+
 5. Realizar montaje del Backend

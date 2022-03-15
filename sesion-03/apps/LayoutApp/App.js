@@ -15,6 +15,8 @@ import AbsoluteLayout from "./src/layout-learn/AbsoluteLayout";
 
 import ProfileLayout from "./src/layout-learn/ProfileLayout";
 
+import Login from "./src/screen/container/Login"
+
 export default function App() {
   return (
     <View style={{flex: 1}}>
@@ -31,7 +33,7 @@ export default function App() {
 
       <GridLayout />
      */} 
-      <ProfileLayout />
+      <Login />
     </View>
   );
 }
